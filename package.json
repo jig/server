@@ -1,0 +1,12 @@
+{
+  "name": "aritmeticaExpress",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {
+    "start": "node service"
+  },
+  "dependencies": {
+    "express": "3.0.0rc4",
+	"commander": "*"
+  }
+}
